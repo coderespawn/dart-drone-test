@@ -1,0 +1,4 @@
+name: dart_test_skeleton
+description: A sample web application
+dependencies:
+  browser: any
